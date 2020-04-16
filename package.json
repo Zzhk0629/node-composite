@@ -8,7 +8,6 @@
     "bundle": "pm2 start ecosystem.config.js --only node-composite-prod --watch"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
@@ -38,5 +37,4 @@
     "url": "https://github.com/Zzhk0629/node-composite/issues"
   },
   "homepage": "https://github.com/Zzhk0629/node-composite#readme"
-  
 }
